@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
+#include <FreeRTOS.h>
 int main(void)
 {
   printf("\n-------Accleration in Terminal-------\n");
