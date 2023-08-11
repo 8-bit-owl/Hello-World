@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
+
+#define ZERO 0
 int main(void)
 {
   printf("\n-------Accleration in Terminal-------\n");
@@ -33,5 +35,5 @@ int main(void)
   printf("------------------------\n");
   printf("\n exiting acceleration");
   
-  return 0;
+  return ZERO;
 }
