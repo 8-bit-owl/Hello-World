@@ -1,2 +1,1 @@
-if __name__==__main__:
-  printf("hello cloud !")
+printf("Hello Cloud !")
